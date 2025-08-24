@@ -1,6 +1,9 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=carmaa10&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
 <!--
+
+go to this website to make more changes later: https://dev.to/puenehfaith/how-to-beautifully-organize-your-github-profile-dha
+
 **carmaa10/carmaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
